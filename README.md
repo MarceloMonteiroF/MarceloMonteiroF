@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Marcelo Monteiro 👋
 
-<!--
-**MarceloMonteiroF/MarceloMonteiroF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Itapira.
 
-Here are some ideas to get you started:
+💻 Apaixonado por tecnologia, desenvolvimento de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estudando:
+- HTML
+- CSS
+- JavaScript
+- Python
+- Banco de Dados SQL
+- Git e GitHub
+
+🎯 Objetivos:
+- Conseguir minha primeira oportunidade na área de tecnologia.
+- Evoluir como desenvolvedor.
+- Construir projetos que gerem impacto real.
+
+## 🚀 Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+## 🛠️ Ferramentas e IDEs
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="MySQL Workbench" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/marcelo-monteirof
+- Email: marcelo.monteirof7@gmail.com
+
+---
+⭐ Sempre aprendendo e desenvolvendo novos projetos.
